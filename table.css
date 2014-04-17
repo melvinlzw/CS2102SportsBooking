@@ -1,0 +1,35 @@
+@charset "utf-8";
+.TableDays {
+    margin-left: 104px;
+
+}
+.Days {
+    min-width: 100px;
+    min-height: 50px;
+    max-height: 50px;
+    max-width: 100px;
+}
+.Time {
+    min-width: 100px;
+    min-height: 50px;
+    max-height: 50px;
+    max-width: 100px;
+}
+.TableTime {
+    float: left;
+}
+.Available {
+    min-width: 100px;
+    min-height: 50px;
+    max-height: 50px;
+    max-width: 100px;
+    background-color: #409915;
+    position: inherit;
+}
+.Booked {
+    background-color: #F00;
+}
+
+#TableViewer {
+    position: absolute;
+}
